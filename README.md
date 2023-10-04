@@ -78,7 +78,7 @@ cd Hacktoberfest2023-beginner
 #### 3. Set your streams (For sync your clone with the original repo)
 
 ```markdown
-git remote add upstream https://github.com/Aman22sharma/Hacktoberfest2023_beginner.git
+git remote add upstream https://github.com/Aman22sharma/Hacktoberfest2023-beginner.git
 git pull upstream master
 ```
 
